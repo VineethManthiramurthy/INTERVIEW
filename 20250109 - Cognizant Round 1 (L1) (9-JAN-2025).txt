@@ -1,0 +1,9 @@
+-Explain disp parameter
+-what happen if disp=(new, pass)
+-explain disp=mod
+-what happens if i code cond=even?
+-i have a input file of 100 records and 3 output files 123.  i want to write 1st rec in file1, 2nd rec in file2, 3rd rec in file3.  how to do it?
+-how will you restart job
+-how will you save unwanted allocated space after allocating files (Hint: RLSE)
+-How will you override a dd in a catalog proc
+-explain instream and catalog proc

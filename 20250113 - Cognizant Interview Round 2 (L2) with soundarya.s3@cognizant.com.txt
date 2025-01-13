@@ -1,0 +1,22 @@
+1-Scenario.  For a delete program which deletes rows from a table, what all conditions will you check? (hint - she expected cascade, restrict in table rows deletion)
+2-Scenario.  You have Main and sub programs.  Sub program has a query and return 30 records from a table.  That table has 100 records.
+How will you get all 100 records in the Main program and process it. (i told i will pass end-customer-key and fetch next 30 rows where query has > key criteria and she was ok) 
+3-how will you optimize a db2 query? (hint: Index.  I explained indexes defining in table)
+4-What is plan? how will you identify Plan issues/ issues related to plan? (i told -805 but seems she expected something else)
+5-How often do you write Db2 queries?
+6-Have you worked on MQ.  what and how does it work?
+7-Checkpoint and restart.  How does it work? how does restart work and start from a particular record? 
+8-Commit and rollback
+9-what tools you use - Endevor/changeman, tool for db2?file manager/file aid, debugger, tool to analyze job abends? (this was ok, i gave right responses)
+10-I have 2 files, i want to take matching records.  How will you achieve with in JCL (i explained join keys and she was ok)
+11-what is your current role in project
+12-is there a separate testing team in project.
+13-who will schedule jobs
+14-Do you have any questions
+15-i asked client name - KBC Global
+16-i asked tools used
+17-what is your team size ( i told 15, 8 mainframe remaining java)
+18-Do you manage teams(i told there is a team lead and product manager)
+19-what methodology you follow? i told agile
+20. do you know safe agile or heard of it? ( i said no)
+21. she told she is a scrum master with 15 years experience in cognizant.
